@@ -1,0 +1,1 @@
+year-month-date,meter_no,reading
